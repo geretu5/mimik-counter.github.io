@@ -1,0 +1,24 @@
+html{
+	background-color: #cce8cc;
+}
+.vvod{
+	margin-top: 100px;
+}
+input{
+	width: 75px;
+	height: 32.5px;
+	font-size: 20px;
+}
+p{
+	font-size: 25px;
+}
+.but{
+	border: 0px;
+	margin-top: 5px;
+	width: 350px;
+	height: 30px;
+	background-color: #7fb685;
+}
+.but:active{
+	background-color: #69A470;
+}
